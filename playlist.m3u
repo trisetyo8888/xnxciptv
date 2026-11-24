@@ -6335,7 +6335,7 @@ http://localhost/ch/1141382_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1141417_
-#EXTINF:-1 tvg-id="1141416" tvg-name="LIVE EVENT 02 - CANCELLED 9pm USAC National Midgets Plaza Park" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png" group-title="┃PPV┃ PAY PER VIEW",LIVE EVENT 02 - CANCELLED 9pm USAC National Midgets Plaza Park
+#EXTINF:-1 tvg-id="1141416" tvg-name="LIVE EVENT 02 - 6:45pm USAC Jason Leffler Memorial Kern" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png" group-title="┃PPV┃ PAY PER VIEW",LIVE EVENT 02 - 6:45pm USAC Jason Leffler Memorial Kern
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1141416_
@@ -6699,47 +6699,47 @@ http://localhost/ch/1972846_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972847_
-#EXTINF:-1 tvg-id="1972796" tvg-name="Naklo T, Plipuech P vs Karamoko N, Waltert S @ Nov 22 07:00 AM - Billie Jean King Cup :Tennis  01" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Naklo T, Plipuech P vs Karamoko N, Waltert S @ Nov 22 07:00 AM - Billie Jean King Cup :Tennis  01
+#EXTINF:-1 tvg-id="1972796" tvg-name="Czech Republic vs Canada @ Nov 24 16:00 PM - Davis Cup :Tennis  01" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Czech Republic vs Canada @ Nov 24 16:00 PM - Davis Cup :Tennis  01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972796_
-#EXTINF:-1 tvg-id="1972797" tvg-name="Tararudee, Lanlana	 vs Golubic, Viktorija @ Nov 22 08:50 AM - Billie Jean King Cup :Tennis  02" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Tararudee, Lanlana	 vs Golubic, Viktorija @ Nov 22 08:50 AM - Billie Jean King Cup :Tennis  02
+#EXTINF:-1 tvg-id="1972797" tvg-name=":Tennis  02" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972797_
-#EXTINF:-1 tvg-id="1972798" tvg-name="Sawangkaew, Mananchaya vs Teichmann, Jil @ Nov 22 09:50 AM - Billie Jean King Cup :Tennis  03" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Sawangkaew, Mananchaya vs Teichmann, Jil @ Nov 22 09:50 AM - Billie Jean King Cup :Tennis  03
+#EXTINF:-1 tvg-id="1972798" tvg-name=":Tennis  03" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972798_
-#EXTINF:-1 tvg-id="1972799" tvg-name="Jeanjean L, Mladenovic K vs Hunter S, Joint M @ Nov 22 13:30 PM - Billie Jean King Cup :Tennis  04" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Jeanjean L, Mladenovic K vs Hunter S, Joint M @ Nov 22 13:30 PM - Billie Jean King Cup :Tennis  04
+#EXTINF:-1 tvg-id="1972799" tvg-name=":Tennis  04" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972799_
-#EXTINF:-1 tvg-id="1972800" tvg-name="Parry, Diane vs Gibson, Talia @ Nov 22 14:55 PM - Billie Jean King Cup :Tennis  05" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Parry, Diane vs Gibson, Talia @ Nov 22 14:55 PM - Billie Jean King Cup :Tennis  05
+#EXTINF:-1 tvg-id="1972800" tvg-name=":Tennis  05" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972800_
-#EXTINF:-1 tvg-id="1972801" tvg-name="Arevalo M, Pavic M vs Arribage T, Olivetti A @ Nov 22 15:00 PM - ATP Finals :Tennis  06" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Arevalo M, Pavic M vs Arribage T, Olivetti A @ Nov 22 15:00 PM - ATP Finals :Tennis  06
+#EXTINF:-1 tvg-id="1972801" tvg-name=":Tennis  06" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972801_
-#EXTINF:-1 tvg-id="1972802" tvg-name="Burel, Clara vs Hunter, Storm @ Nov 22 15:50 PM - Billie Jean King Cup :Tennis  07" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Burel, Clara vs Hunter, Storm @ Nov 22 15:50 PM - Billie Jean King Cup :Tennis  07
+#EXTINF:-1 tvg-id="1972802" tvg-name=":Tennis  07" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972802_
-#EXTINF:-1 tvg-id="1972803" tvg-name="Zverev, Alexander vs Alcaraz, Carlos @ Nov 22 18:00 PM - ATP Finals :Tennis  08" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Zverev, Alexander vs Alcaraz, Carlos @ Nov 22 18:00 PM - ATP Finals :Tennis  08
+#EXTINF:-1 tvg-id="1972803" tvg-name=":Tennis  08" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972803_
-#EXTINF:-1 tvg-id="1972804" tvg-name="Krawczyk D, Townsend T vs Bondar A, Stollar F @ Nov 22 19:30 PM - Billie Jean King Cup :Tennis  09" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Krawczyk D, Townsend T vs Bondar A, Stollar F @ Nov 22 19:30 PM - Billie Jean King Cup :Tennis  09
+#EXTINF:-1 tvg-id="1972804" tvg-name=":Tennis  09" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972804_
-#EXTINF:-1 tvg-id="1972805" tvg-name="Gauff, Coco vs Bondar, Anna @ Nov 22 20:40 PM - Billie Jean King Cup :Tennis  10" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Gauff, Coco vs Bondar, Anna @ Nov 22 20:40 PM - Billie Jean King Cup :Tennis  10
+#EXTINF:-1 tvg-id="1972805" tvg-name=":Tennis  10" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972805_
-#EXTINF:-1 tvg-id="1972806" tvg-name="Li, Ann vs Galfi, Dalma @ Nov 22 21:50 PM - Billie Jean King Cup :Tennis  11" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",Li, Ann vs Galfi, Dalma @ Nov 22 21:50 PM - Billie Jean King Cup :Tennis  11
+#EXTINF:-1 tvg-id="1972806" tvg-name=":Tennis  11" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png" group-title="┃PPV┃ TENNIS PPV",:Tennis  11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1972806_
@@ -19895,43 +19895,43 @@ http://localhost/ch/1314086_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1314087_
-#EXTINF:-1 tvg-id="830068" tvg-name="UEFA | 1 - Liverpool vs Chelsea 12:45 pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 1 - Liverpool vs Chelsea 12:45 pm
+#EXTINF:-1 tvg-id="830068" tvg-name="UEFA | 1 - Bodo/Glimt vs Lask 5:45pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 1 - Bodo/Glimt vs Lask 5:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830068_
-#EXTINF:-1 tvg-id="830067" tvg-name="UEFA | 2 - London City Lionesses  vs Crystal Palace 17:15 PM" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 2 - London City Lionesses  vs Crystal Palace 17:15 PM
+#EXTINF:-1 tvg-id="830067" tvg-name="UEFA | 2 - Galatasaray vs Aston Villa 5:45pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 2 - Galatasaray vs Aston Villa 5:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830067_
-#EXTINF:-1 tvg-id="830066" tvg-name="UEFA | 3 - Chelsea vs Paris SG 8:00 PM" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 3 - Chelsea vs Paris SG 8:00 PM
+#EXTINF:-1 tvg-id="830066" tvg-name="UEFA | 3 - UCL Goals Show 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 3 - UCL Goals Show 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830066_
-#EXTINF:-1 tvg-id="830065" tvg-name="UEFA | 04 - Juventus vs OH Leuven 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 04 - Juventus vs OH Leuven 8:00pm
+#EXTINF:-1 tvg-id="830065" tvg-name="UEFA | 04 - Arsenal vs Dortmund 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 04 - Arsenal vs Dortmund 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830065_
-#EXTINF:-1 tvg-id="830064" tvg-name="UEFA | 05 - Poland vs Sweden 7:45pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 05 - Poland vs Sweden 7:45pm
+#EXTINF:-1 tvg-id="830064" tvg-name="UEFA | 05 - Como vs AEK Athens 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 05 - Como vs AEK Athens 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830064_
-#EXTINF:-1 tvg-id="830063" tvg-name="UEFA | 06 - Republic of Ireland vs Kosovo 7:45pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 06 - Republic of Ireland vs Kosovo 7:45pm
+#EXTINF:-1 tvg-id="830063" tvg-name="UEFA | 06 - Feyenoord vs Porto 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 06 - Feyenoord vs Porto 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830063_
-#EXTINF:-1 tvg-id="830062" tvg-name="UEFA | 07 - Ukraine vs Georgia 7:45pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 07 - Ukraine vs Georgia 7:45pm
+#EXTINF:-1 tvg-id="830062" tvg-name="UEFA | 07 - Manchester City vs Napoli 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 07 - Manchester City vs Napoli 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830062_
-#EXTINF:-1 tvg-id="830061" tvg-name="UEFA | 08 - Wales vs Portugal 7:45pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 08 - Wales vs Portugal 7:45pm
+#EXTINF:-1 tvg-id="830061" tvg-name="UEFA | 08 - RP Leipzig vs Lens 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 08 - RP Leipzig vs Lens 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830061_
-#EXTINF:-1 tvg-id="830060" tvg-name="UEFA | 09 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 09 -
+#EXTINF:-1 tvg-id="830060" tvg-name="UEFA | 09 - Real Madrid vs PSV 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 09 - Real Madrid vs PSV 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830060_
-#EXTINF:-1 tvg-id="830059" tvg-name="UEFA | 10 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 10 -
+#EXTINF:-1 tvg-id="830059" tvg-name="UEFA | 10 - Slovan Bratislava vs Real Betis 8:00pm" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png" group-title="┃UK┃ UEFA EVENTS",UEFA | 10 - Slovan Bratislava vs Real Betis 8:00pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/830059_
@@ -24247,7 +24247,7 @@ http://localhost/ch/941581_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/941580_
-#EXTINF:-1 tvg-id="1987629" tvg-name="D+ FR 01|  L'Équipe du soir (2026-11-24 21:50:00)" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png" group-title="┃FR┃ DISNEY+ SPORT PPV",D+ FR 01|  L'Équipe du soir (2026-11-24 21:50:00)
+#EXTINF:-1 tvg-id="1987629" tvg-name="D+ FR 01|  NCAA Men's Basketball - The Southwest Maui Invitational as a part of Feast Week Presented by Lowe's (Championship) (2026-11-25 19:20:00)" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png" group-title="┃FR┃ DISNEY+ SPORT PPV",D+ FR 01|  NCAA Men's Basketball - The Southwest Maui Invitational as a part of Feast Week Presented by Lowe's (Championship) (2026-11-25 19:20:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1987629_
@@ -41491,43 +41491,43 @@ http://localhost/ch/1365359_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1365360_
-#EXTINF:-1 tvg-id="1118739" tvg-name="Charlotte Hornets vs Memphis Grizzlies @ Nov 23 7:00 PM :NBA  01" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Charlotte Hornets vs Memphis Grizzlies @ Nov 23 7:00 PM :NBA  01
+#EXTINF:-1 tvg-id="1118739" tvg-name="Orlando Magic vs Detroit Pistons @ Nov 24 7:00 PM :NBA  01" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Orlando Magic vs Detroit Pistons @ Nov 24 7:00 PM :NBA  01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118739_
-#EXTINF:-1 tvg-id="1118740" tvg-name="Philadelphia 76ers vs Portland Trail Blazers @ Nov 23 7:00 PM :NBA  02" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Philadelphia 76ers vs Portland Trail Blazers @ Nov 23 7:00 PM :NBA  02
+#EXTINF:-1 tvg-id="1118740" tvg-name="Washington Wizards vs Boston Celtics @ Nov 24 8:00 PM :NBA  02" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Washington Wizards vs Boston Celtics @ Nov 24 8:00 PM :NBA  02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118740_
-#EXTINF:-1 tvg-id="1118741" tvg-name="Indiana Pacers vs Oklahoma City Thunder @ Nov 23 7:30 PM :NBA  03" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Indiana Pacers vs Oklahoma City Thunder @ Nov 23 7:30 PM :NBA  03
+#EXTINF:-1 tvg-id="1118741" tvg-name="Denver Nuggets vs Dallas Mavericks @ Nov 24 10:00 PM :NBA  03" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Denver Nuggets vs Dallas Mavericks @ Nov 24 10:00 PM :NBA  03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118741_
-#EXTINF:-1 tvg-id="1118742" tvg-name="Toronto Raptors vs Milwaukee Bucks @ Nov 23 7:30 PM :NBA  04" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Toronto Raptors vs Milwaukee Bucks @ Nov 23 7:30 PM :NBA  04
+#EXTINF:-1 tvg-id="1118742" tvg-name=":NBA  04" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",:NBA  04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118742_
-#EXTINF:-1 tvg-id="1118743" tvg-name="Minnesota Timberwolves vs Brooklyn Nets  @ Nov 23 7:30 PM :NBA  05" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Minnesota Timberwolves vs Brooklyn Nets  @ Nov 23 7:30 PM :NBA  05
+#EXTINF:-1 tvg-id="1118743" tvg-name=":NBA  05" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",:NBA  05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118743_
-#EXTINF:-1 tvg-id="1118744" tvg-name="Chicago Bulls vs Cleveland Cavaliers @ Nov 23 8:00 PM :NBA  06" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Chicago Bulls vs Cleveland Cavaliers @ Nov 23 8:00 PM :NBA  06
+#EXTINF:-1 tvg-id="1118744" tvg-name=":NBA  06" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",:NBA  06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118744_
-#EXTINF:-1 tvg-id="1118745" tvg-name="New Orleans Pelicans vs Phoenix Suns @ Nov 23 8:00 PM :NBA  07" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",New Orleans Pelicans vs Phoenix Suns @ Nov 23 8:00 PM :NBA  07
+#EXTINF:-1 tvg-id="1118745" tvg-name=":NBA  07" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",:NBA  07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118745_
-#EXTINF:-1 tvg-id="1118746" tvg-name="Houston Rockets vs LA Clippers @ Nov 23 8:30 PM :NBA  08" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Houston Rockets vs LA Clippers @ Nov 23 8:30 PM :NBA  08
+#EXTINF:-1 tvg-id="1118746" tvg-name=":NBA  08" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",:NBA  08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118746_
-#EXTINF:-1 tvg-id="1118747" tvg-name="Los Angeles Lakers vs Utah Jazz @ Nov 23 10:00 PM :NBA  09" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Los Angeles Lakers vs Utah Jazz @ Nov 23 10:00 PM :NBA  09
+#EXTINF:-1 tvg-id="1118747" tvg-name=":NBA  09" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",:NBA  09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118747_
-#EXTINF:-1 tvg-id="1118748" tvg-name="Sacramento Kings vs San Antonio Spurs @ Nov 23 10:00 PM :NBA  10" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",Sacramento Kings vs San Antonio Spurs @ Nov 23 10:00 PM :NBA  10
+#EXTINF:-1 tvg-id="1118748" tvg-name=":NBA  10" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NBA/NBA.png" group-title="┃USA┃ NBA PPV VIP",:NBA  10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1118748_
@@ -41747,31 +41747,31 @@ http://localhost/ch/569229_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/569228_
-#EXTINF:-1 tvg-id="1120139" tvg-name="NHL | 01 - 7pm Blue Jackets @ Devils" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 01 - 7pm Blue Jackets @ Devils
+#EXTINF:-1 tvg-id="1120139" tvg-name="NHL | 01 - 8pm Golden Knights @ Oilers" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 01 - 8pm Golden Knights @ Oilers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1120139_
-#EXTINF:-1 tvg-id="1120140" tvg-name="NHL | 02 - 7:30pm Kings @ Canadiens" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 02 - 7:30pm Kings @ Canadiens
+#EXTINF:-1 tvg-id="1120140" tvg-name="NHL | 02 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 02 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1120140_
-#EXTINF:-1 tvg-id="1120141" tvg-name="NHL | 03 - 7:30pm Flames @ Senators" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 03 - 7:30pm Flames @ Senators
+#EXTINF:-1 tvg-id="1120141" tvg-name="NHL | 03 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 03 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1120141_
-#EXTINF:-1 tvg-id="1120142" tvg-name="NHL | 04 - 7:30pm Maple Leafs @ Islanders" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 04 - 7:30pm Maple Leafs @ Islanders
+#EXTINF:-1 tvg-id="1120142" tvg-name="NHL | 04 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 04 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1120142_
-#EXTINF:-1 tvg-id="1120143" tvg-name="NHL | 05 - 7:30pm Mammoth @ Jets" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 05 - 7:30pm Mammoth @ Jets
+#EXTINF:-1 tvg-id="1120143" tvg-name="NHL | 05 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 05 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1120143_
-#EXTINF:-1 tvg-id="1120144" tvg-name="NHL | 06 - 9:40pm Ducks @ Kraken" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 06 - 9:40pm Ducks @ Kraken
+#EXTINF:-1 tvg-id="1120144" tvg-name="NHL | 06 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 06 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1120144_
-#EXTINF:-1 tvg-id="1120145" tvg-name="NHL | 07 - 10pm Wild @ Sharks" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 07 - 10pm Wild @ Sharks
+#EXTINF:-1 tvg-id="1120145" tvg-name="NHL | 07 -" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/NHL/NHL.png" group-title="┃USA┃ NHL PPV VIP",NHL | 07 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1120145_
@@ -42695,15 +42695,15 @@ http://localhost/ch/1366776_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/1366775_
-#EXTINF:-1 tvg-id="861596" tvg-name="Nashville SC vs FC Cincinnati @ Nov 22 4:15 PM :MLS  01" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png" group-title="┃USA┃ MLS APPLE TV+",Nashville SC vs FC Cincinnati @ Nov 22 4:15 PM :MLS  01
+#EXTINF:-1 tvg-id="861596" tvg-name="San Jose Earthquakes vs Houston Dynamo FC @ Nov 24 10:15 PM :MLS  01" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png" group-title="┃USA┃ MLS APPLE TV+",San Jose Earthquakes vs Houston Dynamo FC @ Nov 24 10:15 PM :MLS  01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/861596_
-#EXTINF:-1 tvg-id="861597" tvg-name="Chicago Fire FC vs Charlotte FC @ Nov 22 6:00 PM :MLS  02" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png" group-title="┃USA┃ MLS APPLE TV+",Chicago Fire FC vs Charlotte FC @ Nov 22 6:00 PM :MLS  02
+#EXTINF:-1 tvg-id="861597" tvg-name=":MLS  02" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png" group-title="┃USA┃ MLS APPLE TV+",:MLS  02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/861597_
-#EXTINF:-1 tvg-id="861598" tvg-name="Vancouver Whitecaps FC vs Real Salt Lake @ Nov 22 8:00 PM :MLS  03" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png" group-title="┃USA┃ MLS APPLE TV+",Vancouver Whitecaps FC vs Real Salt Lake @ Nov 22 8:00 PM :MLS  03
+#EXTINF:-1 tvg-id="861598" tvg-name=":MLS  03" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png" group-title="┃USA┃ MLS APPLE TV+",:MLS  03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/861598_
@@ -73667,6 +73667,38 @@ http://localhost/ch/797294_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
 http://localhost/ch/797293_
+#EXTINF:-1 tvg-id="2422604" tvg-name="┃AFG┃ AFGHAN DAILY" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20AFGHAN%20DAILY&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ AFGHAN DAILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2422604_
+#EXTINF:-1 tvg-id="2422605" tvg-name="┃AFG┃ ARIANA TELEVISION" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20ARIANA%20TELEVISION&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ ARIANA TELEVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2422605_
+#EXTINF:-1 tvg-id="2422712" tvg-name="┃AFG┃ HAIDAR SALIM" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20HAIDAR%20SALIM&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ HAIDAR SALIM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2422712_
+#EXTINF:-1 tvg-id="2422602" tvg-name="┃AFG┃ HAMAYON AFGHAN" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20HAMAYON%20AFGHAN&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ HAMAYON AFGHAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2422602_
+#EXTINF:-1 tvg-id="2424321" tvg-name="┃AFG┃ NIGINA AMONQULOVA" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20NIGINA%20AMONQULOVA&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ NIGINA AMONQULOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2424321_
+#EXTINF:-1 tvg-id="2422601" tvg-name="┃AFG┃ SALAAM AFGHANISTAN" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20SALAAM%20AFGHANISTAN&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ SALAAM AFGHANISTAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2422601_
+#EXTINF:-1 tvg-id="2422713" tvg-name="┃AFG┃ SHABNAM SURAYO" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20SHABNAM%20SURAYO&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ SHABNAM SURAYO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2422713_
+#EXTINF:-1 tvg-id="2422603" tvg-name="┃AFG┃ SIMA-E WATAN سیمای وطن" tvg-logo="https://ui-avatars.com%E2%94%83AFG%E2%94%83%20SIMA-E%20WATAN%20%D8%B3%DB%8C%D9%85%D8%A7%DB%8C%20%D9%88%D8%B7%D9%86&background=random&color=fff&size=256&font-size=0.35" group-title="┃AFG┃ AFGHANISTAN PREMIUM",┃AFG┃ SIMA-E WATAN سیمای وطن
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
+http://localhost/ch/2422603_
 #EXTINF:-1 tvg-id="1665847" tvg-name="┃IR┃ IRAN NATIONAL REVOLUTION TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRAN/┃IR┃ IRAN/IRAN NATIONAL REVOLUTIO.png" group-title="┃IR┃ IRAN",┃IR┃ IRAN NATIONAL REVOLUTION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:4D:62
